@@ -1,7 +1,7 @@
 # Automation
 File workflow automation
 
-#Init
+# Init
 
 sudo easy_install pip
 pip install virtualenv
